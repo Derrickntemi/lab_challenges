@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+target/
+build/
+dist/
+logs/
+report/
+test-output/
+.gradle/
+.mvn/
+*.iws
+*.ipr
+*.idea_modules/
+ws/
+
+# Project-specific (adjust as needed)
+**/target/
+**/build/
+**/out/
+
+# Editor-specific (if you use others)
+.vscode/
+.emacs.d/
+.vimrc.swp
+
+.DS_Store
